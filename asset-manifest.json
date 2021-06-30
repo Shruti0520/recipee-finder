@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/recipee-finder/static/css/main.9418f583.chunk.css",
+    "main.js": "/recipee-finder/static/js/main.db015cfd.chunk.js",
+    "main.js.map": "/recipee-finder/static/js/main.db015cfd.chunk.js.map",
+    "runtime-main.js": "/recipee-finder/static/js/runtime-main.aa7c7c76.js",
+    "runtime-main.js.map": "/recipee-finder/static/js/runtime-main.aa7c7c76.js.map",
+    "static/js/2.75f6d8fc.chunk.js": "/recipee-finder/static/js/2.75f6d8fc.chunk.js",
+    "static/js/2.75f6d8fc.chunk.js.map": "/recipee-finder/static/js/2.75f6d8fc.chunk.js.map",
+    "index.html": "/recipee-finder/index.html",
+    "static/css/main.9418f583.chunk.css.map": "/recipee-finder/static/css/main.9418f583.chunk.css.map",
+    "static/js/2.75f6d8fc.chunk.js.LICENSE.txt": "/recipee-finder/static/js/2.75f6d8fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa7c7c76.js",
+    "static/js/2.75f6d8fc.chunk.js",
+    "static/css/main.9418f583.chunk.css",
+    "static/js/main.db015cfd.chunk.js"
+  ]
+}
